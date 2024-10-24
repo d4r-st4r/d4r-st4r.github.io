@@ -6,7 +6,17 @@
         
     </head>
     <body>
+    <style>
+    body{ background-color:rgb(242, 106, 208);
+    }
+
+    p{ color: rgb(0,0,0);
+    }
+
+    h2{ color: color(103, 0, 194);
+    }
     
+    </style>
         <h1> Travel to Fashionweek</h1>
         
         <p class="text"> 
